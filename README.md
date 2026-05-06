@@ -179,8 +179,8 @@ The project includes a single-page web dashboard served by the Flask backend.
 
 ```bash
 # 1. Clone the repo
-git clone https://github.com/viktoryamargaryan/CORAE-Engine.git
-cd CORAE-Engine
+git clone https://github.com/viktoryamargaryan/AVEDIS-CORAE.git
+cd AVEDIS-CORAE
 
 # 2. Create and activate a virtual environment
 python3 -m venv venv
